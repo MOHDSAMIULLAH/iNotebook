@@ -1,6 +1,6 @@
 # iNotebook
 
-## Deployed link: https://inotebook-main.netlify.app/
+## Deployed link: [https://inotebook-main.netlify.app/](https://inotebook-mernn.netlify.app/)
 
 ![image](https://github.com/MOHDSAMIULLAH/iNotebook/assets/91786605/c2fb3389-133a-41ba-a366-d81c5208fdb7)
 
